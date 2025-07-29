@@ -1,1 +1,1 @@
-A simple code used to enable signal detection in Esp32 board with the help of a diode.
+A code used to control the diode to enable signal detection using the Esp32 board 
